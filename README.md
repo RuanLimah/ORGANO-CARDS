@@ -1,5 +1,3 @@
-markdown
-Copiar código
 # ORGANO CARDS
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
